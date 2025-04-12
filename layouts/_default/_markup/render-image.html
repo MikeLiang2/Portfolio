@@ -1,0 +1,9 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $src := $u.String -}}
+{{- if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path -}}
+  {{- with or (.Page.Resources.GetMatch $path) (resources.Get (print "images/" $path)) -}}
+    {{- $src = .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+<img src="{{ $src }}" alt="{{ .PlainText }}">
