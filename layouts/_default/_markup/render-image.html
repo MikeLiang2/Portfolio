@@ -1,6 +1,0 @@
-{{ $src := .Destination }}
-{{ with .Page.Resources.GetMatch (printf "**%s" $src) }}
-  <img src="{{ .RelPermalink }}" alt="{{ $.Text }}" loading="lazy" class="custom-img">
-{{ else }}
-  <img src="{{ $src | safeURL }}" alt="{{ $.Text }}" loading="lazy" class="fallback-img">
-{{ end }}
