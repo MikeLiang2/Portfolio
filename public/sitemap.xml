@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:59854/Portfolio/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:59854/Portfolio/projects/sql-projects/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:59854/Portfolio/projects/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:59854/Portfolio/contact/contact/</loc>
+  </url><url>
+    <loc>http://localhost:59854/Portfolio/education/edu_page/</loc>
+  </url><url>
+    <loc>http://localhost:59854/Portfolio/projects/project_main/</loc>
+  </url><url>
+    <loc>http://localhost:59854/Portfolio/categories/</loc>
+  </url><url>
+    <loc>http://localhost:59854/Portfolio/contact/</loc>
+  </url><url>
+    <loc>http://localhost:59854/Portfolio/education/</loc>
+  </url><url>
+    <loc>http://localhost:59854/Portfolio/resume/</loc>
+  </url><url>
+    <loc>http://localhost:59854/Portfolio/tags/</loc>
+  </url>
+</urlset>

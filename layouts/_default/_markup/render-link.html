@@ -1,0 +1,9 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $href := $u.String -}}
+
+{{- if not (or $u.IsAbs (hasPrefix $href "#")) -}}
+  {{- $href = relURL $u.Path -}}
+{{- end -}}
+
+<a href="{{ $href }}">{{ .Text | safeHTML }}</a>
+

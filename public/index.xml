@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on My main page</title>
+    <link>http://localhost:59854/Portfolio/</link>
+    <description>Recent content in About Me on My main page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:59854/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Airline Satisfaction Prediction</title>
+      <link>http://localhost:59854/Portfolio/projects/sql-projects/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59854/Portfolio/projects/sql-projects/</guid>
+      <description>&lt;p&gt;This project uses supervised and unsupervised learning to analyze airline passenger satisfaction. Models used include Logistic Regression, Decision Tree, Naive Bayes, MLP, and KMeans Clustering.&lt;/p&gt;&#xA;&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/%E4%BD%A0%E7%9A%84%E4%BB%93%E5%BA%93&#34;&gt;View on GitHub&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:59854/Portfolio/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59854/Portfolio/contact/contact/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:59854/Portfolio/education/edu_page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59854/Portfolio/education/edu_page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:59854/Portfolio/projects/project_main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59854/Portfolio/projects/project_main/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:59854/Portfolio/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59854/Portfolio/resume/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

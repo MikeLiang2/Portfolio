@@ -6,19 +6,24 @@ theme = 'ananke'
 [menu]
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Resume"
+    url = "/resume/"
     weight = 1
+
+  [[menu.main]]
+    name = "Education"
+    url = "/education/"
+    weight = 2
 
   [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 4
 
 [caches]
   [caches.images]
@@ -29,4 +34,9 @@ theme = 'ananke'
     [markup.goldmark.renderHooks]
       [markup.goldmark.renderHooks.image]
         enableDefault = true
-
+      [markup.goldmark.renderHooks.link]
+        enableDefault = true
+[params]
+  mainSections = []
+  [params.ananke]
+    show_recent_posts = false
