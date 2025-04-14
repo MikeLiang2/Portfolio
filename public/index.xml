@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on My main page</title>
-    <link>http://localhost:64171/Portfolio/</link>
+    <link>http://localhost:50562/Portfolio/</link>
     <description>Recent content in About Me on My main page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:64171/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50562/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graduate Education</title>
-      <link>http://localhost:64171/Portfolio/education/gradu/</link>
+      <link>http://localhost:50562/Portfolio/education/gradu/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64171/Portfolio/education/gradu/</guid>
+      <guid>http://localhost:50562/Portfolio/education/gradu/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Northwestern University&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Master of Science in Management Information Systems&lt;/em&gt; &lt;em&gt;(In Progress)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;GPA:&lt;/strong&gt; 3.9 / 4.0&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Undergraduate Education</title>
-      <link>http://localhost:64171/Portfolio/education/undergrad/</link>
+      <link>http://localhost:50562/Portfolio/education/undergrad/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64171/Portfolio/education/undergrad/</guid>
+      <guid>http://localhost:50562/Portfolio/education/undergrad/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Northeastern University&lt;/strong&gt;&#xA;&lt;em&gt;Bachelor of Science in Business Administration&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Major:&lt;/strong&gt; Business Administration and Management&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Minor:&lt;/strong&gt; Computer Science&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Concentration:&lt;/strong&gt; Management Information Systems&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;GPA:&lt;/strong&gt; 3.78 / 4.0&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Airline Satisfaction Prediction</title>
-      <link>http://localhost:64171/Portfolio/projects/sql-projects/</link>
+      <link>http://localhost:50562/Portfolio/projects/sql-projects/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64171/Portfolio/projects/sql-projects/</guid>
+      <guid>http://localhost:50562/Portfolio/projects/sql-projects/</guid>
       <description>&lt;p&gt;This project uses supervised and unsupervised learning to analyze airline passenger satisfaction. Models used include Logistic Regression, Decision Tree, Naive Bayes, MLP, and KMeans Clustering.&#xA;This is a sample project testing link to Github, will be updataed soon.&lt;/p&gt;&#xA;&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/MikeLiang2?tab=repositories&#34;&gt;View on GitHub&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chinese Contact</title>
-      <link>http://localhost:64171/Portfolio/contact/contact_cn/</link>
+      <link>http://localhost:50562/Portfolio/contact/contact_cn/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64171/Portfolio/contact/contact_cn/</guid>
+      <guid>http://localhost:50562/Portfolio/contact/contact_cn/</guid>
       <description>&lt;h3 id=&#34;-contact&#34;&gt;📬 Contact&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📧 &lt;strong&gt;Email (Personal):&lt;/strong&gt; &lt;a href=&#34;mailto:1852362503@qq.com&#34;&gt;1852362503@qq.com&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;🎓 &lt;strong&gt;Email (School):&lt;/strong&gt; &lt;a href=&#34;mailto:jiahao.liang@u.northwestern.edu&#34;&gt;jiahao.liang@u.northwestern.edu&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;☎️ &lt;strong&gt;Phone:&lt;/strong&gt; +86 17621777751&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💬 &lt;strong&gt;WeChat:&lt;/strong&gt; 1852362503&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💼 &lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/jiahao-liang-220858224&#34;&gt;linkedin.com/in/jiahao-liang-220858224&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Tableau Chinese Cancer Infographic</title>
-      <link>http://localhost:64171/Portfolio/projects/tableau_chinese_cancer/</link>
+      <link>http://localhost:50562/Portfolio/projects/tableau_chinese_cancer/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64171/Portfolio/projects/tableau_chinese_cancer/</guid>
+      <guid>http://localhost:50562/Portfolio/projects/tableau_chinese_cancer/</guid>
       <description>A Tableau infographic visualizing cancer incidence trends in China.</description>
     </item>
     <item>
       <title>Tableau Jobcase Dashboard</title>
-      <link>http://localhost:64171/Portfolio/projects/tableau_dashboard/</link>
+      <link>http://localhost:50562/Portfolio/projects/tableau_dashboard/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64171/Portfolio/projects/tableau_dashboard/</guid>
+      <guid>http://localhost:50562/Portfolio/projects/tableau_dashboard/</guid>
       <description>A Tableau Dashboard visualizing Jobcase&amp;rsquo;s business data.</description>
     </item>
     <item>
       <title>US Contact</title>
-      <link>http://localhost:64171/Portfolio/contact/contact_us/</link>
+      <link>http://localhost:50562/Portfolio/contact/contact_us/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64171/Portfolio/contact/contact_us/</guid>
+      <guid>http://localhost:50562/Portfolio/contact/contact_us/</guid>
       <description>&lt;h3 id=&#34;-contact&#34;&gt;📬 Contact&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📧 &lt;strong&gt;Email (Personal):&lt;/strong&gt; &lt;a href=&#34;mailto:1852362503@qq.com&#34;&gt;1852362503@qq.com&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;🎓 &lt;strong&gt;Email (School):&lt;/strong&gt; &lt;a href=&#34;mailto:jiahao.liang@u.northwestern.edu&#34;&gt;jiahao.liang@u.northwestern.edu&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;☎️ &lt;strong&gt;Phone:&lt;/strong&gt; +1 (312)-278-5287&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💼 &lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/jiahao-liang-220858224&#34;&gt;linkedin.com/in/jiahao-liang-220858224&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:64171/Portfolio/working-experience/jiajia/</link>
+      <link>http://localhost:50562/Portfolio/working-experience/jiajia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64171/Portfolio/working-experience/jiajia/</guid>
+      <guid>http://localhost:50562/Portfolio/working-experience/jiajia/</guid>
       <description>&lt;h3 id=&#34;shanghai-yuanlu-jiajia-information-technology-co-ltd&#34;&gt;Shanghai Yuanlu Jiajia Information Technology Co., Ltd&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technical Support and Maintenance Engineer&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Shanghai, China&lt;/em&gt; | &lt;em&gt;May 2024 – Present&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:64171/Portfolio/working-experience/kingnet/</link>
+      <link>http://localhost:50562/Portfolio/working-experience/kingnet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64171/Portfolio/working-experience/kingnet/</guid>
+      <guid>http://localhost:50562/Portfolio/working-experience/kingnet/</guid>
       <description>&lt;h3 id=&#34;shanghai-kingnet-technology-co-ltd&#34;&gt;Shanghai Kingnet Technology Co., Ltd&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Technology Platform Developer&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Shanghai, China&lt;/em&gt; | &lt;em&gt;Jan 2022 – Jun 2022&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:64171/Portfolio/resume/</link>
+      <link>http://localhost:50562/Portfolio/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64171/Portfolio/resume/</guid>
+      <guid>http://localhost:50562/Portfolio/resume/</guid>
       <description></description>
     </item>
   </channel>
