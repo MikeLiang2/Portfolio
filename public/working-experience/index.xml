@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Experiences on My main page</title>
+    <link>http://localhost:64171/Portfolio/working-experience/</link>
+    <description>Recent content in Working Experiences on My main page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:64171/Portfolio/working-experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:64171/Portfolio/working-experience/jiajia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64171/Portfolio/working-experience/jiajia/</guid>
+      <description>&lt;h3 id=&#34;shanghai-yuanlu-jiajia-information-technology-co-ltd&#34;&gt;Shanghai Yuanlu Jiajia Information Technology Co., Ltd&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technical Support and Maintenance Engineer&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Shanghai, China&lt;/em&gt; | &lt;em&gt;May 2024 – Present&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:64171/Portfolio/working-experience/kingnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64171/Portfolio/working-experience/kingnet/</guid>
+      <description>&lt;h3 id=&#34;shanghai-kingnet-technology-co-ltd&#34;&gt;Shanghai Kingnet Technology Co., Ltd&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Technology Platform Developer&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Shanghai, China&lt;/em&gt; | &lt;em&gt;Jan 2022 – Jun 2022&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

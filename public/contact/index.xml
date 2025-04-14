@@ -2,17 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on My main page</title>
-    <link>http://localhost:59854/Portfolio/contact/</link>
+    <link>http://localhost:64171/Portfolio/contact/</link>
     <description>Recent content in Contacts on My main page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:59854/Portfolio/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:64171/Portfolio/contact/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:59854/Portfolio/contact/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59854/Portfolio/contact/contact/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <title>Chinese Contact</title>
+      <link>http://localhost:64171/Portfolio/contact/contact_cn/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64171/Portfolio/contact/contact_cn/</guid>
+      <description>&lt;h3 id=&#34;-contact&#34;&gt;📬 Contact&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📧 &lt;strong&gt;Email (Personal):&lt;/strong&gt; &lt;a href=&#34;mailto:1852362503@qq.com&#34;&gt;1852362503@qq.com&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;🎓 &lt;strong&gt;Email (School):&lt;/strong&gt; &lt;a href=&#34;mailto:jiahao.liang@u.northwestern.edu&#34;&gt;jiahao.liang@u.northwestern.edu&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;☎️ &lt;strong&gt;Phone:&lt;/strong&gt; +86 17621777751&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💬 &lt;strong&gt;WeChat:&lt;/strong&gt; 1852362503&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💼 &lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/jiahao-liang-220858224&#34;&gt;linkedin.com/in/jiahao-liang-220858224&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>US Contact</title>
+      <link>http://localhost:64171/Portfolio/contact/contact_us/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64171/Portfolio/contact/contact_us/</guid>
+      <description>&lt;h3 id=&#34;-contact&#34;&gt;📬 Contact&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📧 &lt;strong&gt;Email (Personal):&lt;/strong&gt; &lt;a href=&#34;mailto:1852362503@qq.com&#34;&gt;1852362503@qq.com&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;🎓 &lt;strong&gt;Email (School):&lt;/strong&gt; &lt;a href=&#34;mailto:jiahao.liang@u.northwestern.edu&#34;&gt;jiahao.liang@u.northwestern.edu&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;☎️ &lt;strong&gt;Phone:&lt;/strong&gt; +1 (312)-278-5287&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💼 &lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/jiahao-liang-220858224&#34;&gt;linkedin.com/in/jiahao-liang-220858224&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
