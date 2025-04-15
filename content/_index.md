@@ -13,5 +13,5 @@ My interests include:
 - AI-generated Content (AIGC), NLP, and image processing
 
 Check out my [Projects](projects), [Resume](resume), or connect with me on [LinkedIn](https://www.linkedin.com/in/jiahao-liang-220858224/).
-
+GitHub Repo: ([View on GitHub](https://github.com/MikeLiang2/Portfolio))
 

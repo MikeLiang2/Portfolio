@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Educations on My main page</title>
-    <link>http://localhost:50562/Portfolio/education/</link>
+    <link>http://localhost:1313/Portfolio/education/</link>
     <description>Recent content in Educations on My main page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:50562/Portfolio/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Portfolio/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graduate Education</title>
-      <link>http://localhost:50562/Portfolio/education/gradu/</link>
+      <link>http://localhost:1313/Portfolio/education/gradu/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50562/Portfolio/education/gradu/</guid>
+      <guid>http://localhost:1313/Portfolio/education/gradu/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Northwestern University&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Master of Science in Management Information Systems&lt;/em&gt; &lt;em&gt;(In Progress)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;GPA:&lt;/strong&gt; 3.9 / 4.0&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Undergraduate Education</title>
-      <link>http://localhost:50562/Portfolio/education/undergrad/</link>
+      <link>http://localhost:1313/Portfolio/education/undergrad/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50562/Portfolio/education/undergrad/</guid>
+      <guid>http://localhost:1313/Portfolio/education/undergrad/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Northeastern University&lt;/strong&gt;&#xA;&lt;em&gt;Bachelor of Science in Business Administration&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Major:&lt;/strong&gt; Business Administration and Management&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Minor:&lt;/strong&gt; Computer Science&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Concentration:&lt;/strong&gt; Management Information Systems&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;GPA:&lt;/strong&gt; 3.78 / 4.0&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

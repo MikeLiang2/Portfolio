@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50562/Portfolio/education/</loc>
+    <loc>http://localhost:1313/Portfolio/education/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/education/gradu/</loc>
+    <loc>http://localhost:1313/Portfolio/education/gradu/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/education/undergrad/</loc>
+    <loc>http://localhost:1313/Portfolio/education/undergrad/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/</loc>
+    <loc>http://localhost:1313/Portfolio/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/projects/sql-projects/</loc>
+    <loc>http://localhost:1313/Portfolio/projects/sql-projects/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/contact/contact_cn/</loc>
+    <loc>http://localhost:1313/Portfolio/contact/contact_cn/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/contact/</loc>
+    <loc>http://localhost:1313/Portfolio/contact/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/projects/</loc>
+    <loc>http://localhost:1313/Portfolio/projects/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/projects/tableau_chinese_cancer/</loc>
+    <loc>http://localhost:1313/Portfolio/projects/tableau_chinese_cancer/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/projects/tableau_dashboard/</loc>
+    <loc>http://localhost:1313/Portfolio/projects/tableau_dashboard/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/contact/contact_us/</loc>
+    <loc>http://localhost:1313/Portfolio/contact/contact_us/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/working-experience/jiajia/</loc>
+    <loc>http://localhost:1313/Portfolio/working-experience/jiajia/</loc>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/working-experience/kingnet/</loc>
+    <loc>http://localhost:1313/Portfolio/working-experience/kingnet/</loc>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/categories/</loc>
+    <loc>http://localhost:1313/Portfolio/categories/</loc>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/resume/</loc>
+    <loc>http://localhost:1313/Portfolio/resume/</loc>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/tags/</loc>
+    <loc>http://localhost:1313/Portfolio/tags/</loc>
   </url><url>
-    <loc>http://localhost:50562/Portfolio/working-experience/</loc>
+    <loc>http://localhost:1313/Portfolio/working-experience/</loc>
   </url>
 </urlset>

@@ -14,5 +14,5 @@ image: "images/kingnet.png"
 - Created **Grafana dashboards** to visualize company server metrics, aiding in infrastructure monitoring.
 - Explored **Hive-based data warehouse** structures for querying and analyzing structured gaming data.
 
-**Achievement**: Delivered a reusable NLP toolset that enhanced content moderation efficiency
+**Achievement**: Delivered a reusable NLP toolset that enhanced content moderation efficiency.
 
