@@ -6,8 +6,15 @@
     <description>Recent content in About Me on My main page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boston Public Library Database</title>
+      <link>http://localhost:1313/Portfolio/projects/sql-projects/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/projects/sql-projects/</guid>
+      <description>A Tableau infographic visualizing cancer incidence trends in China.</description>
+    </item>
     <item>
       <title>Graduate Education</title>
       <link>http://localhost:1313/Portfolio/education/gradu/</link>
@@ -21,13 +28,6 @@
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Portfolio/education/undergrad/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Northeastern University&lt;/strong&gt;&#xA;&lt;em&gt;Bachelor of Science in Business Administration&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Major:&lt;/strong&gt; Business Administration and Management&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Minor:&lt;/strong&gt; Computer Science&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Concentration:&lt;/strong&gt; Management Information Systems&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;GPA:&lt;/strong&gt; 3.78 / 4.0&lt;/p&gt;&#xA;&lt;hr&gt;</description>
-    </item>
-    <item>
-      <title>Airline Satisfaction Prediction</title>
-      <link>http://localhost:1313/Portfolio/projects/sql-projects/</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio/projects/sql-projects/</guid>
-      <description>&lt;p&gt;This project uses supervised and unsupervised learning to analyze airline passenger satisfaction. Models used include Logistic Regression, Decision Tree, Naive Bayes, MLP, and KMeans Clustering.&#xA;This is a sample project testing link to Github, will be updataed soon.&lt;/p&gt;&#xA;&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/MikeLiang2?tab=repositories&#34;&gt;View on GitHub&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chinese Contact</title>

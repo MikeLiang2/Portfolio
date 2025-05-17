@@ -6,14 +6,14 @@
     <description>Recent content in Projects on My main page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Airline Satisfaction Prediction</title>
+      <title>Boston Public Library Database</title>
       <link>http://localhost:1313/Portfolio/projects/sql-projects/</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Portfolio/projects/sql-projects/</guid>
-      <description>&lt;p&gt;This project uses supervised and unsupervised learning to analyze airline passenger satisfaction. Models used include Logistic Regression, Decision Tree, Naive Bayes, MLP, and KMeans Clustering.&#xA;This is a sample project testing link to Github, will be updataed soon.&lt;/p&gt;&#xA;&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/MikeLiang2?tab=repositories&#34;&gt;View on GitHub&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;</description>
+      <description>A Tableau infographic visualizing cancer incidence trends in China.</description>
     </item>
     <item>
       <title>Tableau Chinese Cancer Infographic</title>
